@@ -7,6 +7,6 @@
 1. [growth](https://github.com/noortan/reading-notes/blob/main/growth.md)
 2. [read003](https://github.com/noortan/reading-notes/blob/main/read003.md)
 3. [read02](https://github.com/noortan/reading-notes/blob/main/read02.md)
-4. [read03](https://github.com/noortan/reading-notes/blob/main/read03.md)
+4. [read03](read03)
 
-5. [read04](https://github.com/noortan/reading-notes/blob/main/read04.md)
+5. [read04](read04.md)
