@@ -13,3 +13,11 @@
 6. [read05](read05.md)
 7. [read061](read061)
 8. [read06b](read06b.md)
+  
+
+
+  # Table of Contents /201 reading notes
+
+  1. [class-01](class-01.md)
+ 
+  
