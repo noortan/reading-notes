@@ -19,5 +19,6 @@
   # Table of Contents /201 reading notes
 
   1. [class-01](class-01.md)
+  2. [class-02](class-02.md)
  
   
