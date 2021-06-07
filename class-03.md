@@ -121,5 +121,5 @@ It is not necessary to break the last case in a switch block. The block breaks (
 
 **Note:** If you omit the break statement, the next case will be executed even if the evaluation does not match the case.
 
-### The default Keyword
-The default keyword specifies the code to run if there is no case match:
+###  The default Keyword
+The default keyword specifies the code to run if  there is no case match
