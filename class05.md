@@ -1,3 +1,5 @@
+### in this file we will continue read more about these subjects 
+
 ### Linking to a Specific Part of the Same Page
 
 At the top of a long page you might want to add a list of contents that links to the corresponding sections lower down. Or you might want to add a link from part way down the page back to the top of it to save users from having to scroll back to the top.
@@ -41,3 +43,29 @@ You will also often see an <img> element use two other attributes that specify i
 This specifies the height of the image in pixels.
 **width**
 This specifies the width of the image in pixels
+GIF is also a lossless image format that uses LZW compression algorithm. It was favoured over PNG for simple graphics in websites in its early days because the support of PNG was still growing. Given that PNG is now supported across all major devices and that PNG compression is about 5–25% better than GIF compression, GIF images are now mainly used only if the image contains animations.
+### Color
+* How to specify colors
+* Color terminology and contrast
+* Background color
+
+The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways:
+1. rgb values //example: rgb(100,100,90)
+2. hex codes //For example: #ee3e80
+3. color names// For example:DarkCya
+
+### Text”
+**font-family** 
+he font-family property allows you to specify the typeface that should be used for
+any text inside the element(s) to which a CSS rule applies.
+The value of this property is the name of the typeface you want to use.
+The people who are visiting your site need the typeface you have specified installed on their computer in order for it to be displayed.
+You can specify a list of fonts separated by commas so that, if the user does not have your first choice of typeface installed, the browser can try to use an alternative font from the list.
+
+
+**font-size**
+The font-size property enables you to specify a size for the font. There are several ways to specify the size of a font. The most common are:
+1. pixels
+2. percentages
+3. ems
+
