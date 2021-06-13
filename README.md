@@ -23,5 +23,6 @@
   3. [class-03](class-03.md)
   4. [class04](class04.md)
   5. [class05](class05.md)
+  6. [class06](class06.md)
  
   
