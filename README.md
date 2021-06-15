@@ -24,7 +24,7 @@
   4. [class04](class04.md)
   5. [class05](class05.md)
   6. [class06](class06.md)
-  7. [class07](#class07.md)
-  8. [class-08](#class-08.md)
+  7. [class07](https://noortan.github.io/reading-notes/class07)
+  8. [class-08](https://noortan.github.io/reading-notes/class-08)
  
   
