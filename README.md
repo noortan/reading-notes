@@ -27,5 +27,7 @@
   7. [class07](https://noortan.github.io/reading-notes/class07)
   8. [class-08](https://noortan.github.io/reading-notes/class-08)
   9. [class09](class09.md)
+  10. [class-10](class-10.md)
+
  
   
